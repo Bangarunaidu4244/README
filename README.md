@@ -1,6 +1,6 @@
 # Hey there! 👋 Welcome to my GitHub Profile
 
-I'm **Murali**, an aspiring **Data Engineer** passionate about designing efficient data pipelines and ETL workflows. Currently pursuing my **ECE degree** and actively seeking opportunities in the data engineering field.
+I'm **Bangaru Naidu**, an aspiring **Data Engineer** passionate about designing efficient data pipelines and ETL workflows. Currently pursuing my **ECE degree** and actively seeking opportunities in the data engineering field.
 
 ---
 
